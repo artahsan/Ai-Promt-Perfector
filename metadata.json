@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Perfecter",
+  "description": "An application that uses AI to refine and perfect user-provided prompts. Users can input a draft prompt and select an output language (English or Bangla), and the AI will generate an optimized version for better results from large language models.",
+  "requestFramePermissions": []
+}
